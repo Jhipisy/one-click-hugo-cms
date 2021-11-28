@@ -1,15 +1,15 @@
 ---
 title: Jhipisy
 subtitle: Coming Soon
-image: img/about-direct-sourcing.jpg
+image: img/zz1knmfkymfmnzhlngixmwviytu1zdfmyjg0zwi5mtc4zg-.jfif
 blurb:
-  heading: .
-  text: .
+  heading: Coming Soon
+  text: Check out later
 intro:
-  heading: ...
-  text: .
+  heading: Coming Soon
+  text: Check out later
 products: []
 values:
-  heading: a
-  text: e
+  heading: Coming Soon
+  text: Check out later
 ---
