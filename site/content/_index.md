@@ -1,13 +1,13 @@
 ---
-title: no
-subtitle: die
+title: Jhipisy
+subtitle: Coming Soon
 image: img/about-direct-sourcing.jpg
 blurb:
-  heading: i hate the old man
-  text: lol
+  heading: .
+  text: .
 intro:
-  heading: joe
-  text: mama
+  heading: ...
+  text: .
 products: []
 values:
   heading: a
